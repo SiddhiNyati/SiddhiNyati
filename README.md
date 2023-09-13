@@ -1,3 +1,4 @@
+![logo](https://github.com/SiddhiNyati/SiddhiNyati/blob/main/Beige%20Modern%20Elegant%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Siddhi Nyati</h1>
 <h3 align="center">A Computer Science student from India</h3>
 
